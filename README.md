@@ -1,5 +1,6 @@
 # EX-NO-3-IMPLEMENTATION-OF-HILL-CIPHER
- 
+## NAME: KANISHKA P
+## REG NO: 2305001011
 ## AIM
 To write a C program to implement the hill cipher substitution techniques.
 
